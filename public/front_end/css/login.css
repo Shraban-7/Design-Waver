@@ -1,0 +1,9 @@
+#login-page {
+    background: linear-gradient(
+      to right,
+      #f1f9fa 0%,
+      #f1f9fa 50%,
+      rgb(41, 157, 202) 50%,
+      rgb(41, 157, 202) 100%
+    );
+  }
